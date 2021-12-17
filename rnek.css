@@ -1,0 +1,12 @@
+body {
+	background-color:  #00ffff;
+
+} #header { 
+  margin-top: 50px;
+   background-color: pink 
+   height:150px;
+}
+#header . h1{ 
+color: red 
+text-align:center;
+ }
